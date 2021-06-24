@@ -487,7 +487,8 @@ points = PoolVector2Array( 0, 0, 32, 0, 32, 32, 0, 32 )
 [node name="World" type="Node2D"]
 
 [node name="Background" type="Sprite" parent="."]
-position = Vector2( -169, -123 )
+position = Vector2( -331, -224 )
+scale = Vector2( 1.50568, 1.4537 )
 texture = ExtResource( 3 )
 centered = false
 region_enabled = true
@@ -509,6 +510,7 @@ tile_data = PoolIntArray( -262151, 0, 0, -262150, 0, 1, -262149, 0, 1, -262148, 
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2( 192, 64 )
 current = true
+zoom = Vector2( 1.02, 1.02 )
 process_mode = 0
 smoothing_enabled = true
 
