@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Menu Move.wav-d97a887eeb77e9f82d0179618aff26aa.sample"
+path="res://.import/Pause.wav-b2ceb2005ad26d58e4a60211ebe95db5.sample"
 
 [deps]
 
-source_file="res://Music and Sounds/Menu Move.wav"
-dest_files=[ "res://.import/Menu Move.wav-d97a887eeb77e9f82d0179618aff26aa.sample" ]
+source_file="res://Audio/Pause.wav"
+dest_files=[ "res://.import/Pause.wav-b2ceb2005ad26d58e4a60211ebe95db5.sample" ]
 
 [params]
 

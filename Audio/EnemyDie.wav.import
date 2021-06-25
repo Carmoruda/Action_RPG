@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Pause.wav-2283faeb42b74e3f6e4809669cc9a8ab.sample"
+path="res://.import/EnemyDie.wav-7b4c45d26e28b7815a58254a0f5bd056.sample"
 
 [deps]
 
-source_file="res://Music and Sounds/Pause.wav"
-dest_files=[ "res://.import/Pause.wav-2283faeb42b74e3f6e4809669cc9a8ab.sample" ]
+source_file="res://Audio/EnemyDie.wav"
+dest_files=[ "res://.import/EnemyDie.wav-7b4c45d26e28b7815a58254a0f5bd056.sample" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Swipe.wav-1b0f341b1727da219872e70c921da651.sample"
+path="res://.import/Hit.wav-054574b6a7ebaabd8be827db64721f83.sample"
 
 [deps]
 
-source_file="res://Music and Sounds/Swipe.wav"
-dest_files=[ "res://.import/Swipe.wav-1b0f341b1727da219872e70c921da651.sample" ]
+source_file="res://Audio/Hit.wav"
+dest_files=[ "res://.import/Hit.wav-054574b6a7ebaabd8be827db64721f83.sample" ]
 
 [params]
 
