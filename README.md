@@ -1,6 +1,5 @@
 # Action_RPG
 Action RPG game developed through a Godot Engine [tutorial series](https://youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) by [HeartBeast](https://github.com/uheartbeast).
-Goals
 
 ## Directories
 ```
