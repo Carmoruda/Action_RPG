@@ -30,6 +30,6 @@ The World (at `res://World.tscn`) should have following the main nodes:
 ## Credits
 [Course](https://youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) created by [HeartBeast](https://github.com/uheartbeast).
 
-## Assets
+## Assets and Resources
 - https://github.com/uheartbeast/youtube-tutorials/tree/master/Action%20RPG
 - https://github.com/uheartbeast/youtube-tutorials/blob/master/Action%20RPG/Action%20RPG%20Resources.zip
